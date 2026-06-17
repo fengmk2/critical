@@ -810,7 +810,7 @@ packages:
     resolution: {integrity: sha512-A51o8ymO5PpqlWNnBP9ZHPXDIpuMtTLlGSjN7la4US+LJzoUMyhwjA5QXlm39JexgwHKW4Xjs8Z2d3dLCXOeuA==}
 
   '@voidzero-dev/vite-plus-core@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-FlVljD/YEX4QU/5xdWlCjtWUwwbSyNnEynvDzYtT/OaOfR7lroUtn8plbYLkBLdPpRQMklBTtiX72yIhLhh9eQ==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     peerDependencies:
@@ -874,21 +874,21 @@ packages:
         optional: true
 
   '@voidzero-dev/vite-plus-darwin-arm64@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-arm64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-arm64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-jgATnrluAC2mZh3HhY01f52cXS73nPLBvILV0wg1wj2SoVIchw9HR6357pTgI4HM16IquPLNEJiQXhfGZiO0Tg==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-arm64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [arm64]
     os: [darwin]
 
   '@voidzero-dev/vite-plus-darwin-x64@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-x64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-x64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-tpTRF4YrdOF1Py71SiWHivTjqjhcHweGGQufcypZIvd7F3LDo8yESfxlM1Ppj05XvMo8t3argr+YnLD1LBMFqg==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-darwin-x64@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [x64]
     os: [darwin]
 
   '@voidzero-dev/vite-plus-linux-arm64-gnu@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-Yqtn06dSxx0c8fROpuMZew3PkrFXDppDZIhywC8SyF/VpDMR6by+EVtyMGFgjZsHScWiTDeQG5jL6Efy3xyokw==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [arm64]
@@ -896,7 +896,7 @@ packages:
     libc: [glibc]
 
   '@voidzero-dev/vite-plus-linux-arm64-musl@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-4nrbiLezsS5jJv43DRhIDUChBSm9eIcfZBeRzo++rPt1piujAZDcyuGz2iD5oQO1DAJ8WnCvnWFWXX27FggNDA==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-arm64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [arm64]
@@ -904,7 +904,7 @@ packages:
     libc: [musl]
 
   '@voidzero-dev/vite-plus-linux-x64-gnu@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-LOijkAyksAZx80hYzAPyYIVGocJMleEtJoem8oTXnMWwiRyohFof1X5owhkwD3pT5t9bFraCGz1z40fLi2LFwQ==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-gnu@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [x64]
@@ -912,7 +912,7 @@ packages:
     libc: [glibc]
 
   '@voidzero-dev/vite-plus-linux-x64-musl@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-lNs0NkJpUhUGfWcTgI6QnCDL1UL/h+Pqc2i7+r4spSOrarQzrw+4hPgxLfvxgpM/oXk1h63Smm8iKBger5x3pw==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-linux-x64-musl@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [x64]
@@ -920,14 +920,14 @@ packages:
     libc: [musl]
 
   '@voidzero-dev/vite-plus-win32-arm64-msvc@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-arm64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-arm64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-CQ2lDRKYUZV+n2SkKfTB91UH7eU6uUmCFP2tKfj6Wtz8HeJDTlaPgnR5agTvIuCu5KbPWS8XjVMToe05DhcUSQ==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-arm64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [arm64]
     os: [win32]
 
   '@voidzero-dev/vite-plus-win32-x64-msvc@https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-x64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc':
-    resolution: {tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-x64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
+    resolution: {integrity: sha512-Y9ZF6/Kpkesjj8HqllM2kieUHcWZc/kA3V3dtOwqvGEXgoJFKBrq2ZrmLuNYsf/1QRFaDDG1KLWgRGW1GUSGNQ==, tarball: https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-win32-x64-msvc@ca273bba14281ae4b5bffc55b41f8de7da16dfcc}
     version: 0.2.0
     engines: {node: ^22.18.0 || >=24.11.0}
     cpu: [x64]
